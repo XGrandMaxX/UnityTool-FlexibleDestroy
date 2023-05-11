@@ -8,7 +8,7 @@ But the Destroy() method is still relevant, because it is simple and convenient,
 
 **How to use**
 
-Call the StartDespawn and StopDespawn methods when you need to start deleting and stop deleting an object, it's very simple
+Call the StartDespawn and StopDespawn methods when you need to start deleting or stop deleting an object, it's very simple
 
 **Ru: Описание**
 
@@ -17,4 +17,4 @@ Call the StartDespawn and StopDespawn methods when you need to start deleting an
 
 **Как использовать**
 
-Вызывайте методы StartDespawn и StopDespawn тогда, когда нужно начать удаление и остановить удаление объекта, всё очень просто
+Вызывайте методы StartDespawn и StopDespawn тогда, когда нужно начать удаление или остановить удаление объекта, всё очень просто
